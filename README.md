@@ -115,13 +115,23 @@ The **Student Information System** is a web-based platform designed to simplify 
 1. Clone the repo:
    ```bash
    git clone https://github.com/yourusername/student-information-system.git
-2. Open .sln file in Visual Studio.
+2. **Copy to XAMPP directory**
+   ```bash
+   Move the folder to: C:\xampp\htdocs\
+3. **Set up the database**
+   ```bash
+   - Import database.sql file via phpMyAdmin
+   - Create database with the same name used in your config.php
 
-3. Restore NuGet packages.
+4. Install dependencies
+   ```bash
+   - composer install
 
-4. Set database connection string in Web.config.
-
-5. Run project using IIS Express or local server.
+5. Start the server
+    ```bash
+    - Launch XAMPP
+    - Start Apache and MySQL
+    - Visit http://localhost/student-information-system/ in your browser
 
 ---
 
