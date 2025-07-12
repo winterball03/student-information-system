@@ -7,7 +7,7 @@
 
 ## 🎓 About Student Information System
 
-The **Student Information System** is a web-based platform designed to simplify the management of student data in an academic setting. Developed by Grace Tan & Tan Zhi Quan, it enables administrators to manage students, courses, grades, and attendance efficiently. It also allows students to view their academic progress in a clear and structured manner.
+The **Student Information System** is a web-based platform designed to simplify the management of student data in an academic setting. It enables administrators to manage students, courses, grades, and attendance efficiently. It also allows students to view their academic progress in a clear and structured manner.
 
 ---
 
@@ -36,13 +36,13 @@ The **Student Information System** is a web-based platform designed to simplify 
 - Secure login for both admin and student users.
 
 ### 🏠 Student Homepage
-<img width="1622" height="1016" alt="image" src="https://github.com/user-attachments/assets/6c75912c-4d02-42f6-897d-9674d6afa450" />
+![Student Home Page](<img width="1622" height="1016" alt="image" src="https://github.com/user-attachments/assets/6c75912c-4d02-42f6-897d-9674d6afa450" />)
 - View personal profile, courses enrolled, grades, and attendance.
 
 ---
 
 ### 🧑‍💼 Admin Homepage
-<img width="2175" height="1044" alt="image" src="https://github.com/user-attachments/assets/6299a45f-4383-4803-8401-f4f569bf6f31" />
+![Admin Home Page](<<img width="2175" height="1044" alt="image" src="https://github.com/user-attachments/assets/6299a45f-4383-4803-8401-f4f569bf6f31" />)
 - Overview of all modules and quick access to student/course management.
 
 ---
@@ -74,32 +74,70 @@ The **Student Information System** is a web-based platform designed to simplify 
 
 ## 📚 Course Module
 
-- **Course List**  
+- **Course List**
+
+- <img width="2020" height="620" alt="image" src="https://github.com/user-attachments/assets/178eb49e-ac7b-4894-9636-de72a376483e" />
+
   Admins can create, view, update, and delete course records.
 
-- **Add Course**  
+- **Add Course**
+
+- <img width="1414" height="1316" alt="image" src="https://github.com/user-attachments/assets/08fbdcaa-f7fa-48e1-834e-59af9e7930e0" />
+
+<img width="2030" height="849" alt="image" src="https://github.com/user-attachments/assets/f864bb3a-2ef6-4a00-9c4a-2f00e6273ead" />
+
+
   Input course name, code, and description.
 
-- **Edit Course**  
+- **Edit Course**
+
+- <img width="1418" height="1313" alt="image" src="https://github.com/user-attachments/assets/5ed022ec-9c55-4b3b-a541-2f6d3deee439" />
+
+<img width="2200" height="741" alt="image" src="https://github.com/user-attachments/assets/9c2f5519-d50f-4a52-9d82-703dce83aa20" />
+
   Modify existing course info.
 
-- **Delete Course**  
+- **Delete Course**
+
+- <img width="1662" height="655" alt="image" src="https://github.com/user-attachments/assets/ca83757c-f890-4f1b-a26b-876cc46671a4" />
+
+<img width="2148" height="805" alt="image" src="https://github.com/user-attachments/assets/8ad67168-e456-492a-bd36-40f5001c3ff2" />
+
   Remove course entries.
 
 ---
 
 ## 🧾 Student-Course Module
 
-- **Student Course List**  
+- **Student Course List**
+
+- <img width="2166" height="567" alt="image" src="https://github.com/user-attachments/assets/d9f1e46e-086e-46a5-8a9f-309686548c74" />
+
   View all courses enrolled by each student.
 
-- **Assign Course to Student**  
+- **Assign Course to Student**
+
+- <img width="1692" height="894" alt="image" src="https://github.com/user-attachments/assets/fafc6286-ad06-413d-88bd-c63ee0ccc167" />
+
+<img width="2186" height="822" alt="image" src="https://github.com/user-attachments/assets/50c9cd15-d0da-4e6c-bcdf-32649ced5ea5" />
+
+
   Append a course to a student record and add grades/attendance.
 
-- **Update Student Course Info**  
+- **Update Student Course Info**
+
+- <img width="1715" height="880" alt="image" src="https://github.com/user-attachments/assets/3f5eb855-85dd-4945-bd67-f9ace87d07bf" />
+
+<img width="2138" height="795" alt="image" src="https://github.com/user-attachments/assets/7d38b4bd-4f11-415c-aede-b5644724d0c4" />
+
   Modify existing course assignments and grades.
 
-- **Delete Course from Student**  
+- **Delete Course from Student**
+
+- <img width="1709" height="452" alt="image" src="https://github.com/user-attachments/assets/346a8e81-47dd-4854-95a7-fa79aa026acd" />
+
+<img width="2196" height="712" alt="image" src="https://github.com/user-attachments/assets/c7434c5a-0a7b-4ce5-8bb1-8ee99b0fb975" />
+
   Remove course enrollment from student profile.
 
 ---
