@@ -42,7 +42,7 @@ The **Student Information System** is a web-based platform designed to simplify 
 ---
 
 ### 🧑‍💼 Admin Homepage
-![Admin Home Page](<<img width="2175" height="1044" alt="image" src="https://github.com/user-attachments/assets/6299a45f-4383-4803-8401-f4f569bf6f31" />)
+![Admin Home Page](<img width="2175" height="1044" alt="image" src="https://github.com/user-attachments/assets/6299a45f-4383-4803-8401-f4f569bf6f31" />)
 - Overview of all modules and quick access to student/course management.
 
 ---
