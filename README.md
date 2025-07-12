@@ -1,6 +1,6 @@
 <p align="center">
   <b>Student Information System</b><br>
-  A role-based student management platform built with .NET for education institutions.
+  A role-based student management platform built with PHP for education institutions.
 </p>
 
 ---
